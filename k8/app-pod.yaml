@@ -11,7 +11,7 @@ spec:
    image: 750940482526.dkr.ecr.us-east-1.amazonaws.com/hbrar14-docker-assignment:appv1.0
    env:
    - name: DBHOST
-     value: 10.96.179.176  # Replace with the hostname of your MySQL service
+     value: 10.96.60.65  # Replace with the hostname of your MySQL service
    - name: DBUSER
      value: root
    - name: DBPWD
