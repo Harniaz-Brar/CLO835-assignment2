@@ -1,4 +1,4 @@
-name: Deploy to ECR #hbrar14
+name: Deploy to ECR 
 
 on:
   push:
